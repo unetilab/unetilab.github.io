@@ -7,6 +7,8 @@ order: 4
 ---
 # Tài nguyên
 ---
+## Hệ thống máy tính hiệu năng cao
+* 02 Máy tính workstation có GPU phục vụ các nghiên cứu AI.
 
 ## Kho ngữ liệu
 
