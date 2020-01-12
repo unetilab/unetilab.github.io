@@ -11,7 +11,7 @@ order: 3
 
 #### 2019
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam, Dinh Khac Quy. Antonyms-Synonyms Discrimination Based On Exploiting Rich Vietnamese Features. Accepted in PACLING 2019.
-{: style="text-align: justify;"}
+
 
 #### 2018
 * Viet Hong Tran, Quan-Van Nguyen and Vinh Van Nguyen, “A Neural Network Classifier Based on Dependency Tree for English-Vietnamese Statistical Machine Translation”, Proceedings of the 19th International Conference on Intelligent Text Processing and Computational Linguistics, 2018.
@@ -38,7 +38,7 @@ order: 3
 #### 2015
 * Viet Tran Hong, Vinh Van Nguyen and Minh Le Nguyen, “Improving English-Vietnamese Statistical Machine Translation Using Pre-processing Dependency Syntactic”, Proceedings of the Pacific Association for Computational Linguistics 2015, 115-121. Available: http://pacling.stei.itb.ac.id/?page_id=784
 
-* Bui Van Tan, Ant Colony Optimization Algorithm for Shortest Path Problem. University of Economics - Technology for Industries Journal of Science and Technology, No.8: 25-31, 2015.
+* Bui Van Tan, Ant Colony Optimization Algorithm for Shortest Path Problem. University of Economics - Technology for Industries Journal of Science and Technology, No.8: 25{31, 2015.
 
 * Viet Tran Hong, Huyen Vu Thuong, Vinh Nguyen Van and Trung Le Tien, “The English-Vietnamese Machine Translation System for IWSLT 2015”, Proceeding of the 12th International Workshop on Spoken Language Translation, 2015, 80-84. Available: http://workshop2015.iwslt.org
 
