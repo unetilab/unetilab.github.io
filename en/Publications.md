@@ -28,7 +28,7 @@ order: 3
 
 * Bui Van Tan, Nguyen Phuong Thai and Pham Van Lam. Construction of a Word Similarity Dataset and Avaluation of Word Similarity Techniques for Vietnamese. The 9th International Conference on Knowledge and Systems Engineering (KSE),2017. 
 
-Bui Van Tan, Nguyen Phuong Thai and Nguyen Minh Thuan. Enhancement of Measurement Efficency for Semantic Similarrity based on WordNet. Fundamental and Applied IT Research Conference (Fair), 2017.
+* Bui Van Tan, Nguyen Phuong Thai and Nguyen Minh Thuan. Enhancement of Measurement Efficency for Semantic Similarrity based on WordNet. Fundamental and Applied IT Research Conference (Fair), 2017.
 
 #### 2016
 * Viet Tran Hong,Huyen Vu Thuong, Thu Pham Hoai, Vinh Nguyen Van and Nguyen Le Minh “A Reordering Model For Vietnamese-English Statistical Machine Translation Using Dependency Information”, Proceedings of International Conference on Computing & Communication Technologies, Research, Innovation, and Vision for the Future (RIVF), 2016.
