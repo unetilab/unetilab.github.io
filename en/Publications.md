@@ -11,10 +11,15 @@ order: 3
 
 #### 2019
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam, Dinh Khac Quy. Antonyms-Synonyms Discrimination Based On Exploiting Rich Vietnamese Features. Accepted in PACLING 2019.
+
+* Van-Doc Vu, Trong-Bach Nguyen, Quyet-Thang Huynh, Formal Transformation from UML Sequence Diagrams to Queueing Petri Nets. SoMeT 2019: 588-601.
 {: style="text-align: justify;"}
+
 
 #### 2018
 * Viet Hong Tran, Quan-Van Nguyen and Vinh Van Nguyen, “A Neural Network Classifier Based on Dependency Tree for English-Vietnamese Statistical Machine Translation”, Proceedings of the 19th International Conference on Intelligent Text Processing and Computational Linguistics, 2018.
+
+* Vu Van Doc, Huynh Quyet Thang, Nguyen Trong Bach, Development of the Rules for Transformation of UML Sequence Diagrams into Queueing Petri Nets. INISCOM 2018: 122-144.
 
 * Bui Van Tan, Nguyen Phuong Thai. Enhancing Performance of Lexical Entailment Recognition for Vietnamese based on Exploiting Lexical Structure Features. The 10th International Conference on Knowledge and Systems Engineering (KSE), 2018.
 
