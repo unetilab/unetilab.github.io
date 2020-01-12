@@ -15,4 +15,4 @@ order: 2
 ## Schedule Seminar
 * Nhóm nghiên cứu sẽ seminar hàng tháng theo kế hoạch được đăng ký trước.
 * Lịch seminar
-https://drive.google.com/open?id=1azni_aK7jHFFHiEpZxoUAmn-48ppnIBj
+* https://drive.google.com/open?id=1azni_aK7jHFFHiEpZxoUAmn-48ppnIBj
