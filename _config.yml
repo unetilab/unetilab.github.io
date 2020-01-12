@@ -1,0 +1,39 @@
+author: "UNETI lab"
+description: "An awesome UNETI AI lab"
+permalink: /:title/AI/
+encoding: utf-8
+base_url: 
+    VI: /vi/Introduction/
+    JA: /AI/ja/Introduction/
+    EN: /en/Introduction/
+    FR: /AI/fr/Introduction/
+
+t:
+    title:
+        VI: "Lab nghiên cứu AI tại UNETI"
+        JA: "UNETIのAIラボ"        
+        EN: "AI lab at UNETI"
+        FR: "La laboratoire de AI à l'UNETI"
+
+# exclude_from_localizations: ["assets", "CNAME"]
+# exclude_from_localizations: ["javascript", "images", "css", "xml"]
+
+show_footer: false           # show the "previous" and "next" links at the end of each post
+dark_theme: false            # use the dark mode as default
+dark_header: true            # keep the header dark 
+dark_footer: false           # keep the footer dark
+#style: minimal             # use a simpler style inspired by the minima theme
+  
+
+#icons:                      # icons in the header, see http://fontawesome.com/icons
+#  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
+#  github: "https://github.com/niklasbuschmann/contrast"
+#  rss: "/contrast/feed.xml"
+
+comments:                    # embed disqus or isso comments
+#  disqus: ""
+#  isso: ""
+
+plugins:
+ - jekyll-feed
+ - jekyll-default-layout
