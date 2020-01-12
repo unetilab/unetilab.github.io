@@ -5,34 +5,30 @@ lang: EN
 ref: Members
 order: 1
 ---
-# Member
+# Thành viên
 ---
 
-## Lecturers
-* Assoc. Dr. Nguyen Phuong Thai
-* TS. Nguyen Van Vinh
+## Giảng viên 
+* TS. Trần Hồng Việt
+* NCS. ThS. Mai Mạnh Trừng
+* NCS. Bùi Văn Tân
+* NCS. ThS. Vũ Văn Đốc
+* ThS. Lê Kiều Oanh
+* ThS. Trần Lan Anh
+* ThS. Lương Thảo Hiếu
 
-## Trainers create resources
-* MSc. Vu Huy Hien (will become a PhD student at Tokyo University from October 2019)
-* MSc. Nguyen Minh Thuan
-* CN. Nguyen Hoang Quan
+## Sinh viên
+* Nguyễn Thái Sơn (Tin11A2HN UNETI)
+* Vũ Văn Việt (Tin10A4HN UNETI)
 
-## Fellows
-* MSc. Tran Hong Viet
-* MSc. Bui Van Tan
-* MSc. Ngo Thi Vinh
-* MSc. Dang Thanh Quyen
-* MSc. Luan
-* MSc. Huy
 
-## Students
-* Dinh Khac Quy (K60 UET)
-* Japanese market-oriented IT group of 4 (UET)
+## Hợp tác
+* TS. Nguyễn Văn Vinh: Bộ môn Khoa học máy tính, Trường ĐH Công nghệ, ĐHQGHN
+* PGS. TS. Nguyễn Lê Minh: Viện KH&CN Tiên tiến Nhật Bản (JAIST)
+* PGS. TS. Nguyễn Phương Thái: Bộ môn Khoa học máy tính, Trường ĐH Công nghệ, ĐHQGHN
+* PGS. TS. Trương Anh Hoàng: Bộ môn Công nghệ phần mềm, Trường ĐH Công nghệ, ĐHQGHN
+* ThS. Vũ Thương Huyền - Teamleader Akami, FPT Software
+...
 
-## Co-operates
-* Assoc. Dr. Nguyen Le Minh: Japan Advanced Science and Technology Institute (JAIST)
-* Assoc. Dr. Le Anh Cuong: Ton Duc Thang University
-* TS. Dao Nga My: Japanese Language and Culture Faculty, Hanoi University of Agriculture, VNU
-* TS. Pham Van Lam: Institute of Linguistics, Vietnam Academy of Social Sciences
-
-## Old members
+## Cựu thành viên
+CN. Vũ Văn Đoàn - Tin5HN - FPTSoftware
