@@ -17,5 +17,4 @@ order: 5
 * Được tham gia sinh hoạt khoa học
 * Cơ hội thử thách, phát triển bản thân
 
-## Nghiên cứu sinh
-Vui lòng liên hệ trực tiếp
+
