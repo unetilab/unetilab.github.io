@@ -1,12 +1,12 @@
 author: "UNETI lab"
 description: "An awesome UNETI AI lab"
-permalink: /:title/AI/
+permalink: /:title/
 encoding: utf-8
 base_url: 
-    VI: /vi/Introduction/
-    JA: /AI/ja/Introduction/
+    VI: /
+    JA: /ja/Introduction/
     EN: /en/Introduction/
-    FR: /AI/fr/Introduction/
+    FR: /fr/Introduction/
 
 t:
     title:
