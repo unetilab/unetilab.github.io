@@ -19,7 +19,7 @@ order: 1
 
 ## Sinh viên
 * Nguyễn Thái Sơn (Tin11A2HN UNETI)
-* Vũ Văn Việt (Tin10A4HN UNETI)
+* Lê Văn Việt (Tin10A4HN UNETI)
 
 
 ## Hợp tác
